@@ -181,7 +181,7 @@ De las variables analizadas, el **desempleo** tiene la asociación más fuerte c
 
 1. **Priorizar Bogotá y Lima** para un análisis más profundo, con datos por hora, por corredor y por zona.
 2. **Estudiar Ciudad de México por separado:** su congestión extrema coincide con una economía grande, por lo que el interés es el costo económico de esa congestión y no un problema de bajo ingreso.
-3. **Verificar los datos de Santiago** en la fuente original antes de incluirla en cualquier priorización.
+3. **Tratar con cautela los datos de Santiago:** su PIB per cápita es atípico y no se pudo contrastar con la fuente original; conviene verificarlo antes de usarlo en cualquier priorización.
 4. **Añadir al análisis** densidad poblacional, oferta de transporte público y estacionalidad, para distinguir si la congestión viene de exceso de vehículos o de concentración de empleo.
 
 Estas recomendaciones son pasos de análisis, no decisiones de inversión: los datos disponibles (15 ciudades, un año, correlaciones) no bastan para respaldar montos ni proyectos concretos.
