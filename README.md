@@ -197,5 +197,4 @@ Estas recomendaciones son pasos de análisis, no decisiones de inversión: los d
 
 ## 👤 Autor
 
-**Daniel Medina Guzmán** · Analista de Datos
-[LinkedIn](https://www.linkedin.com/in/danielmg-data) · [GitHub](https://github.com/danielmg-data) · medinaguzman.da@gmail.com
+**Daniel Medina Guzmán** · Analista de Datos · [LinkedIn](https://www.linkedin.com/in/danielmg-data) · [GitHub](https://github.com/danielmg-data) · medinaguzman.da@gmail.com
